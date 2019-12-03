@@ -13,8 +13,8 @@ public class Day1 {
             part1Sum += nextInt / 3 - 2;
             part2Sum += fuel(nextInt);
         }
-        System.out.println("part1: " + part1Sum);
-        System.out.println("part2: " + part2Sum);
+        System.out.println("part 1: " + part1Sum);
+        System.out.println("part 2: " + part2Sum);
     }
 
     public static int fuel(int num) {
