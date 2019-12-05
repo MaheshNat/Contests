@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Day4_SecureContainer",
+            "request": "launch",
+            "mainClass": "Day4_SecureContainer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day4",
+            "request": "launch",
+            "mainClass": "Day4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day3",
+            "request": "launch",
+            "mainClass": "Day3"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Day2",
             "request": "launch",
             "mainClass": "Day2"
