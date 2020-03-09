@@ -2,6 +2,168 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Communications",
+            "request": "launch",
+            "mainClass": "Communications"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Communicationss",
+            "request": "launch",
+            "mainClass": "Communicationss"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Validator",
+            "request": "launch",
+            "mainClass": "Validator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cipher",
+            "request": "launch",
+            "mainClass": "Cipher"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - regional_2014",
+            "request": "launch",
+            "mainClass": "regional_2014"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - regional_2015",
+            "request": "launch",
+            "mainClass": "regional_2015"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - triangles2",
+            "request": "launch",
+            "mainClass": "triangles2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - triangles",
+            "request": "launch",
+            "mainClass": "triangles"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - swap",
+            "request": "launch",
+            "mainClass": "swap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loan",
+            "request": "launch",
+            "mainClass": "loan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - berries",
+            "request": "launch",
+            "mainClass": "berries"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mooyomooyo",
+            "request": "launch",
+            "mainClass": "mooyomooyo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mooyomooyo",
+            "request": "launch",
+            "mainClass": "mooyomooyo",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - moobuzz",
+            "request": "launch",
+            "mainClass": "app.moobuzz",
+            "projectName": "moobuzz2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - milkvisits",
+            "request": "launch",
+            "mainClass": "milkvisits",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - moobuzz",
+            "request": "launch",
+            "mainClass": "moobuzz",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lineup",
+            "request": "launch",
+            "mainClass": "lineup",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - whereami",
+            "request": "launch",
+            "mainClass": "whereami",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - gymnastics",
+            "request": "launch",
+            "mainClass": "gymnastics",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day12",
+            "request": "launch",
+            "mainClass": "Day12",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day10",
+            "request": "launch",
+            "mainClass": "Day10",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day8",
+            "request": "launch",
+            "mainClass": "Day8",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day7",
+            "request": "launch",
+            "mainClass": "Day7",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day6",
+            "request": "launch",
+            "mainClass": "Day6",
+            "projectName": "Contests_c036d529"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day5",
+            "request": "launch",
+            "mainClass": "Day5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Day4_SecureContainer",
             "request": "launch",
             "mainClass": "Day4_SecureContainer"
