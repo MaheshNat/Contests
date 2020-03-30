@@ -2,6 +2,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - prob6",
+            "request": "launch",
+            "mainClass": "prob6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - prob5",
+            "request": "launch",
+            "mainClass": "prob5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - prob4",
+            "request": "launch",
+            "mainClass": "prob4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - prob3",
+            "request": "launch",
+            "mainClass": "prob3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - prob2",
+            "request": "launch",
+            "mainClass": "prob2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Communications",
             "request": "launch",
             "mainClass": "Communications"

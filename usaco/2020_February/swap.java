@@ -24,6 +24,7 @@ public class swap {
         for (int i = 0; i < m; i++)
             pairs.add(new Pair(in.nextInt(), in.nextInt()));
 
+        while(k)
         for (int i = 0; i < k; i++)
             for (Pair p : pairs) {
                 reverse(p.l, p.r);
