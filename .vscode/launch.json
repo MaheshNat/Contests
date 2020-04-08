@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - moop",
+            "request": "launch",
+            "mainClass": "moop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cereal",
+            "request": "launch",
+            "mainClass": "cereal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - socdist",
+            "request": "launch",
+            "mainClass": "socdist"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - prob6",
             "request": "launch",
             "mainClass": "prob6"
